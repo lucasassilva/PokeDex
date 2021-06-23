@@ -1,4 +1,4 @@
-# pokedex_tarde
+# pokedex
 
 A new Flutter project.
 
